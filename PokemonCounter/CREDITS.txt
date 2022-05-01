@@ -13,3 +13,5 @@ Pokemon names:
 	
 Icons:
 	https://github.com/msikma/pokesprite
+
+update by Bang

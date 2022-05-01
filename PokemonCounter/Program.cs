@@ -15,6 +15,7 @@ namespace PokemonCounter
         static void Main()
         {
             Application.EnableVisualStyles();
+            Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.SetCompatibleTextRenderingDefault(false);
             MainForm main = new MainForm();
             Lib.mainForms.Add(main);
